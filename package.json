@@ -1,8 +1,0 @@
-{
-	"name": "com.codomaster.extensions",
-	"displayName": "Extensions",
-	"description": "Convient extensions methods for unity.",
-	"version": "1.3.3",
-	"unity": "2021.1",
-	"license": "MIT"
-}
